@@ -2,7 +2,7 @@
 #include <assert.h>
 
 #include "Printcolor.h"
-#include "colortest.h"
+#include "color.h"
 
 int main() {
     testNumberToPair(4, TelCoColorCoder:: MajorColor::WHITE, TelCoColorCoder::MinorColor::BROWN);
