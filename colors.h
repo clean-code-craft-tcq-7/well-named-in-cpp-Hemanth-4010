@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 #include <iostream>
-#include "Paircolors.h"
+#include "paircolors.h"
 
 void testNumberToPair(int pairNumber,
     TelCoColorCoder::MajorColor expectedMajor,
