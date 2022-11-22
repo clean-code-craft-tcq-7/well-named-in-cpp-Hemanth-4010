@@ -1,5 +1,5 @@
-#ifndef testColors_h
-#define testColors_h
+#ifndef colors_h
+#define colors_h
 
 #include <stdio.h>
 #include <iostream>
