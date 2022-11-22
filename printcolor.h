@@ -1,7 +1,7 @@
 #ifndef PrintManual_h
 #define PrintManual_h
 
-#include "colorpair.h"
+#include "paircolors.h"
 
 void printManual();
 
