@@ -1,8 +1,8 @@
 #include <iostream>
 #include <assert.h>
 
-#include "PrintManual.h"
-#include "testColors.h"
+#include "Printcolor.h"
+#include "colortest.h"
 
 int main() {
     testNumberToPair(4, TelCoColorCoder:: MajorColor::WHITE, TelCoColorCoder::MinorColor::BROWN);
