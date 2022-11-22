@@ -1,4 +1,4 @@
-#include "PrintManual.h"
+#include "Printcolor.h"
 #include <iostream>
 
 const int COLORCELLSPACES = 11;
