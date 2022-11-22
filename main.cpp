@@ -1,7 +1,7 @@
 #include <iostream>
 #include <assert.h>
 
-#include "Printcolor.h"
+#include "printcolor.h"
 #include "color.h"
 
 int main() {
